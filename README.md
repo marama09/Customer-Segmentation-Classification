@@ -1,5 +1,6 @@
 
-
+<p align="center">
+<img src="https://image.shutterstock.com/image-photo/zaporozhye-ukraine-december-20-2017-260nw-780195388.jpg" width="500" height="200" class="center" alt="accessibility text">
   
 # <p align="center"> Customer-Segmentation-Classification
 
