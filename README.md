@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://image.shutterstock.com/image-photo/zaporozhye-ukraine-december-20-2017-260nw-780195388.jpg" width="500" height="200" class="center" alt="accessibility text">
   
-# <p align="center"> Customer-Segmentation-Classification
+# <p align="center"> Customer Segmentation Classification
 
 # 1.	Introduction:
   This is the third T5 Data Science Bootcamp project, which is about building classification models that address a useful prediction and/or interpretation problem using Python with Sklearn. Below is a detail about the automobile company we collaborating with to help them with their problem, the dataset description, and the tools we will be using for the project. 
