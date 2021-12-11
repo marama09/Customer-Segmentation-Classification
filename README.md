@@ -9,8 +9,7 @@
 
 
 # 3.	Dataset
-  
-   The features of the Jobs dataset are the following:
+  The dataset is from Kaggle Website [here](https://www.kaggle.com/juniorbueno/customer-k-means-hierarchical-grouping-dbscan), it's contains 8068 rows and 11    columns, For better understanding of database there is a columns description below:
   | Variable	     | Definition |
 | ----------- | ----------- |
 | ID	   | Unique ID. |
