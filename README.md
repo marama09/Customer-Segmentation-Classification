@@ -4,6 +4,7 @@
 # <p align="center"> Customer-Segmentation-Classification
 
 # 1.	Introduction:
+  This is the third T5 Data Science Bootcamp project, which is about building classification models that address a useful prediction and/or interpretation problem using Python with Sklearn. Below is a detail about the automobile company we collaborating with to help them with their problem, the dataset description, and the tools we will be using for the project. 
   
 # 2.	Problem Statement
 
