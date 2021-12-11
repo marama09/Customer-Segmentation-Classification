@@ -9,7 +9,7 @@
 
 
 # 3.	Dataset
-  The dataset is from Kaggle Website [here](https://www.kaggle.com/juniorbueno/customer-k-means-hierarchical-grouping-dbscan), it's contains 8068 rows and 11    columns, For better understanding of database there is a columns description below:
+  The dataset is [Customer Segmentation](https://www.kaggle.com/juniorbueno/customer-k-means-hierarchical-grouping-dbscan) from Kaggle Website, it contains 8068 rows and 11 columns. For a better understanding of the database there is the description of a column below:
   | Variable	     | Definition |
 | ----------- | ----------- |
 | ID	   | Unique ID. |
