@@ -33,7 +33,7 @@ We have to help the manager to predict the right group of new clients.
 ## 4.	Tools 
  These are the technologies and libraries that we will be using for this project:
 * Technologies: Python, Jupyter Notebook. 
-* Libraries: NumPy, Pandas, Matplotlib, Seaborn, Requests, BeautifulSoup, Selenium, Statsmodels, Scikit-learn.
+* Libraries: NumPy, Pandas, Matplotlib, Seaborn, plotly, Scikit-learn.
   
 ### Communication
 Please feel free to let me know if you have any questions.
